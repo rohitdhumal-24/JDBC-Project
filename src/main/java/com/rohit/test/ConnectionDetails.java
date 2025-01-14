@@ -11,9 +11,9 @@ public class ConnectionDetails {
 
     public static final String URL="jdbc:mysql://localhost:3306/truckmgt";
 
-    public static final String PASSWORD="rohit@9322";
+    public static final String PASSWORD="*******";
 
-    public static final String USERNAME="root";
+    public static final String USERNAME="********";
 
     public static Connection getConnection() throws SQLException {
         return DriverManager.getConnection(URL,USERNAME,PASSWORD);
