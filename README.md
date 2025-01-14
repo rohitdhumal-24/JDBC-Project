@@ -135,19 +135,19 @@ Row deleted : 1
 
 ## Output
 
-![image alt]()
+![image alt](https://github.com/rohitdhumal-24/JDBC-Project/blob/16dfc015815f28fe75452fad40f8d960aaa9ceef/trk%20mng1.png)
 
 ---
 
 ## Database
 
-![image alt]()
+![image alt](https://github.com/rohitdhumal-24/JDBC-Project/blob/16dfc015815f28fe75452fad40f8d960aaa9ceef/trk%20mng2.png)
 
 ---
 
 ## UML Diagram
 
-![image alt]()
+![image alt](https://github.com/rohitdhumal-24/JDBC-Project/blob/16dfc015815f28fe75452fad40f8d960aaa9ceef/TruckManagementUML.png)
 
 ---
 
