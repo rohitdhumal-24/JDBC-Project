@@ -166,11 +166,17 @@ Row deleted : 1
 
 ---
 
-## Author
+## Contributors
 
-**Rohit**
+- **Rohit Dhumal**
+  - Role: Developer
+  - Contact: [rohitdhumal248@gmail.com](mailto\:rohitdhumal248@gmail.com)
 
 ---
+
+Thank you for exploring the **Truck Management Application** application! Feedback is welcome.
+
+
 
 
 
