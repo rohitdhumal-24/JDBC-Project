@@ -1,0 +1,50 @@
+@startuml
+class com.rohit.test.Truck {
+- int id
+- String name
+- String model
+- int capacity
+- String driver_name
++ int getId()
++ void setId(int)
++ String getName()
++ void setName(String)
++ String getModel()
++ void setModel(String)
++ int getCapacity()
++ void setCapacity(int)
++ String getDriver_name()
++ void setDriver_name(String)
++ String toString()
+}
+
+
+class com.rohit.test.App {
++ {static} void main(String[])
+}
+
+class com.rohit.test.AppTest {
++ {static} Test suite()
++ void testApp()
+}
+
+class com.rohit.test.ConnectionDetails {
++ {static} String URL
++ {static} String PASSWORD
++ {static} String USERNAME
++ {static} Connection getConnection()
+}
+
+
+class com.rohit.test.TruckServices {
++ void addTruck(Truck)
++ Truck getTruckById(int)
++ void UpdateTruck(Truck)
++ List<Truck> getAllTruck()
++ void DeleteTruck(int)
+}
+
+
+
+junit.framework.TestCase <|-- com.rohit.test.AppTest
+@enduml
