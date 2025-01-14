@@ -133,6 +133,24 @@ Row deleted : 1
 
 ---
 
+## Output
+
+![image alt]()
+
+---
+
+## Database
+
+![image alt]()
+
+---
+
+## UML Diagram
+
+![image alt]()
+
+---
+
 ## Notes
 
 - Ensure the MySQL database is running before executing the application.
